@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-koa-app-preview/static/css/main.bc83feba.chunk.css",
+    "main.js": "/React-koa-app-preview/static/js/main.b4745448.chunk.js",
+    "main.js.map": "/React-koa-app-preview/static/js/main.b4745448.chunk.js.map",
+    "runtime-main.js": "/React-koa-app-preview/static/js/runtime-main.3c87df77.js",
+    "runtime-main.js.map": "/React-koa-app-preview/static/js/runtime-main.3c87df77.js.map",
+    "static/js/2.bab81538.chunk.js": "/React-koa-app-preview/static/js/2.bab81538.chunk.js",
+    "static/js/2.bab81538.chunk.js.map": "/React-koa-app-preview/static/js/2.bab81538.chunk.js.map",
+    "index.html": "/React-koa-app-preview/index.html",
+    "static/css/main.bc83feba.chunk.css.map": "/React-koa-app-preview/static/css/main.bc83feba.chunk.css.map",
+    "static/js/2.bab81538.chunk.js.LICENSE.txt": "/React-koa-app-preview/static/js/2.bab81538.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c87df77.js",
+    "static/js/2.bab81538.chunk.js",
+    "static/css/main.bc83feba.chunk.css",
+    "static/js/main.b4745448.chunk.js"
+  ]
+}
